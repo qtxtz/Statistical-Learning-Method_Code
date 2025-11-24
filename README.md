@@ -1,11 +1,16 @@
-## 【广告】每日Arxiv（中文版）
-每日Arxiv（中文版）立志paper**汉化**，目前翻译目前涵盖**标题**和**摘要**，AI学科近期支持论文**全文汉化**
+## 【广告位-AI 工具推荐】学术研究必备 - GreatRouter API 服务
+  正在用 Claude/GPT 做研究？论文写作、代码调试、数据分析都需要 AI 辅助？
 
-一天阅读百篇paper不是梦！
+  [**GreatRouter**](https://www.greatrouter.com/) 提供更实惠的 AI API 服务：
+  - 🎓 **学术用户专享 8 折**：比官方便宜 20%（需学术认证）
+  - 💰 **注册送 $3**：足够测试 Claude 3.5 约 1000 次对话
+  - 🛡️ **质量保障**：蜜罐测试，与官方结果不一致赔付 10 倍
+  - 💳 **微信支付**：无需信用卡，余额永不过期
+  - 🌐 **支持 41+ 模型**：Claude, GPT-4o, Gemini, DeepSeek 等
+ 
+→ [立即试用](https://www.greatrouter.com/)
 
-链接： [学术巷子(xueshuxiangzi.com)](https://www.xueshuxiangzi.com/)
-
-
+---
 前言
 ====
 
